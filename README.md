@@ -1,0 +1,2 @@
+Esse é o meu portifólio criado com HTML, CSS e JavaScript é um projeto simples porém me ajudou muito a praticar as tecnologias usadas.
+ Utilizei html e css para fazer a parte visual e tambem foi utilizado o css para fazer a animação da minha foto, através do @keyframes. O javaScript foi utilizado para fazer o envio das mensagens diretamente do meu site para o meu whatsapp pessoal, utilizando um sistema simples porem muito util.
